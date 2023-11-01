@@ -24,9 +24,7 @@ https://mighty-cove-24815-1b97431ee689.herokuapp.com/
 
 
 - pentru hostarea bazei de date am folosit Atlas MongoDB, host-ul fiind urmatorul: cluster0.w8zpowl.mongodb.net
-- credentiale pentru conectare: user=alinciobanu1604, password=jH74ld4h7z8csmkv
-
-- in variabilele de mediu din serviciul de backend am setat: MONGODB_URI=mongodb+srv://alinciobanu1604:jH74ld4h7z8csmkv@cluster0.w8zpowl.mongodb.net/mongodb?retryWrites=true&w=majority pentru realizarea conexiunii intre componenta de backend de pe Heroku si baza de date de pe Atlas
+- credentiale pentru conectare: user=alinciobanu1604, password=*****
 
 ### FRONTEND NEXTJS
 In partea de frotend avem 2 pagini, pagina initiala, cea de home (/) in care sunt afisate un sticky bar si board-urile existente, putand sa adaugi un board de pe butonul Add board de pe sticky board. Cele 3 puncte (semnul de meniu) din dreapta fiecarui board permite editarea sau stergerea board-ului.
